@@ -1,5 +1,4 @@
-
-- 🔭 Computational Biology student
+- 🔬 PhD studies at the Mann lab, Max Planck Institute for Biochemsitry
+- 🇩🇪 Student at Ludwig Maximilian University of Munich
 - 🌱 Interested in Multimodal Single Cell Omics and AI in Biology
-- 🇩🇪 Master student at Ludwig Maximilian University of Munich
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/georg-wallmann-926433189/)
